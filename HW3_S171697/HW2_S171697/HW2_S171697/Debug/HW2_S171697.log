@@ -1,0 +1,12 @@
+﻿  HW2_code.cpp
+d:\minyoung\folder\1. 수업\3학년\그래픽스\과제\3\hw2_s171697\hw2_s171697\camera.h(114): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+d:\minyoung\folder\1. 수업\3학년\그래픽스\과제\3\hw2_s171697\hw2_s171697\hw2_code.cpp(56): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\minyoung\folder\1. 수업\3학년\그래픽스\과제\3\hw2_s171697\hw2_s171697\hw2_code.cpp(57): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\minyoung\folder\1. 수업\3학년\그래픽스\과제\3\hw2_s171697\hw2_s171697\hw2_code.cpp(759): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\minyoung\folder\1. 수업\3학년\그래픽스\과제\3\hw2_s171697\hw2_s171697\hw2_code.cpp(760): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\minyoung\folder\1. 수업\3학년\그래픽스\과제\3\hw2_s171697\hw2_s171697\hw2_code.cpp(877): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\minyoung\folder\1. 수업\3학년\그래픽스\과제\3\hw2_s171697\hw2_s171697\hw2_code.cpp(884): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\minyoung\folder\1. 수업\3학년\그래픽스\과제\3\hw2_s171697\hw2_s171697\hw2_code.cpp(891): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\minyoung\folder\1. 수업\3학년\그래픽스\과제\3\hw2_s171697\hw2_s171697\hw2_code.cpp(899): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\minyoung\folder\1. 수업\3학년\그래픽스\과제\3\hw2_s171697\hw2_s171697\hw2_code.cpp(1137): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  HW2_S171697.vcxproj -> D:\MinYoung\Folder\1. 수업\3학년\그래픽스\과제\3\HW2_S171697\Debug\HW2_S171697.exe
